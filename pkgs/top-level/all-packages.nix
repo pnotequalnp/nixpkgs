@@ -14290,6 +14290,8 @@ in
 
   libivykis = callPackage ../development/libraries/libivykis { };
 
+  libjwt = callPackage ../development/libraries/libjwt { };
+
   liblastfmSF = callPackage ../development/libraries/liblastfmSF { };
 
   liblcf = callPackage ../development/libraries/liblcf { };
